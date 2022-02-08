@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year PhD candidate of [Electrical Engineering \& Computer Science] (http://www.eecs.yorku.ca/) at [York University](http://yorku.ca), advised by Ping Wang (https://scholar.google.com/citations?user=3sIHxrcAAAAJ&hl=en) (IEEE Fellow). My research interests lie in the rinicple of federated learning and its applications for wireless communication systems. I am also very interested in reinforcement learning.  
+I'm a third-year PhD candidate of [Electrical Engineering \& Computer Science](http://www.eecs.yorku.ca/) at [York University](http://yorku.ca), advised by [Ping Wang](https://scholar.google.com/citations?user=3sIHxrcAAAAJ&hl=en) (IEEE Fellow). My research interests lie in the rinicple of federated learning and its applications for wireless communication systems. I am also very interested in reinforcement learning.  
 
 
  I obtained M.A.Sc degree in Electrical Engineering from Communication University of China, Beijing, where I focused on physical layer problems of wireless communication.
