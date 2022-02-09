@@ -1,12 +1,38 @@
 ---
 layout: archive
-title: "CV"
+title: "Academic"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- ## **Research Interests:** -->
 
-Education
+I have been very fortunate to be advised by Prof. [Ping Wang](https://scholar.google.com/citations?user=3sIHxrcAAAAJ&hl=en), and to be able to collaborate with Prof. [Danijela Cabric](https://cores.ee.ucla.edu/people/danijela-cabric/) in a research camp. 
+
+I am highly interested in a wide range of research topics related to federated learning, including the _data heterogeneity, quantization, personalization, incentive design, and byzantine resilience_, some of which have been explored during my Ph.D. study and I am eager to learn more on those topics.<br />
+<!-- (check the [research statement]() for details) -->
+
+----
+## **Teaching Assistant**
+### Research camps
+- Wireless Communications System Design (2019 - 2022) <br/>
+  Prof. [Danijela Cabric]((https://cores.ee.ucla.edu/people/danijela-cabric/)), University of California, Los Angles 
+
+- Understanding Transistors and the Microelectronics Industry (Aug. 2019) <br/>
+  Prof. [Ya-hong Xie](http://www.seas.ucla.edu/smrl/members.html) , University of California, Los Angles 
+
+- Information Dissemination and Aggregation for the Next Decade (Jan. 2019) <br/>
+  Prof. [Bernhard Haeupler](http://www.cs.cmu.edu/~haeupler/),  Carnegie Mellon University  
+
+----
+## **Professional Activity**
+### Reviewer for 
+- IEEE Transaction on Wireless Communication
+- IEEE Transaction on Mobile Computing 
+- IEEE Transactions on Cognitive Communications and Networking 
+- IEEE Communications Letters 
+- IEEE Network magazine 
+
+* IEEE Proceedings: ICC, GLOBECOM, WCNC, VTC

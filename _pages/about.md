@@ -13,23 +13,23 @@ I'm a third-year PhD candidate of dept. [EECS](http://www.eecs.yorku.ca/) at [Yo
 
  I obtained M.A.Sc degree in Electrical Engineering from Communication University of China, Beijing, where I focused on physical layer problems of wireless communication.
 
- I am a sport fan and a tireless traveller.
+ I am a big sport fan and a tireless traveller.
 
 
 * * *
 
 **Updates:**  
 
-*   Jan 2022: Our paper titled "Node Selection Toward Faster Convergence for Federated Learning on Non-IID Data" has been accepted by _IEEE Transactions on Network Science and Engineering_.  
+*   Jan 2022: Our paper titled "[Node Selection Toward Faster Convergence for Federated Learning on Non-IID Data](../files/WuTNSE.pdf)" has been accepted to _IEEE Transactions on Network Science and Engineering_.  
 
-*   Dec 2021: Our paper titled "Probabilistic Node Selection for Federated Learning with Heterogeneous Data in Mobile Edge" has been accepted by _WCNC_ 2022
+*   Dec 2021: Our paper titled "[Probabilistic Node Selection for Federated Learning with Heterogeneous Data in Mobile Edge](../files/WuWCNC.pdf)" has been accepted to _WCNC_ 2022. Hope to meet scholars in Austin!
 <!-- (https://wcnc2022.ieee-wcnc.org/).   -->
 
-*   Oct. 2021: Our new paper explored the channel coding and non-orthogonal multiple access for URLLC communication systems is available on [ArXiv](https://arxiv.org/abs/2110.09977) (joint work with my M.A.Sc. supervisor).  
+*   Oct. 2021: Our new [paper](../files/LiTVT.pdf) explored the channel coding and non-orthogonal multiple access for URLLC communication systems is available on [ArXiv](https://arxiv.org/abs/2110.09977) (joint work with my M.A.Sc. supervisor).  
 
-*   May 2021: Our paper titled "Fast-Convergent Federated Learning with Adaptive Weighting" has been accepted by _IEEE Transactions on Cognitive Communications and Networking_.  
+*   May 2021: Our paper titled "[Fast-Convergent Federated Learning with Adaptive Weighting](../files/WuTCCN.pdf)" has been accepted to _IEEE Transactions on Cognitive Communications and Networking_.  
 
-*   Jan. 2021: Our paper titled "Fast-Convergent Federated Learning with Adaptive Weighting" has been accepted by _ICC_ 2021
+*   Jan. 2021: Our paper titled "[Fast-Convergent Federated Learning with Adaptive Weighting](../files/WuICC.pdf)" has been accepted to _ICC_ 2021
 <!-- (https://icc2021.ieee-icc.org/). -->
 
 <!-- # Recent News
