@@ -18,7 +18,7 @@
   pages={1-6},
   doi={10.1109/ICC42927.2021.9500890}}
 
-@Article{li2021ultrareliable,
+{li2021ultrareliable,
   author        = {Shufeng Li and Mingyu Cai and Libiao Jin and Yao Sun and Hongda Wu and Ping Wang},
   journal       = {IEEE Transactions on Vehicular Technology},
   title         = {An Ultra-Reliable Low-Latency Non-Binary Polar Coded SCMA Scheme},
@@ -81,6 +81,18 @@
   archiveprefix = {arXiv},
   eprint        = {2105.07066},
   primaryclass  = {cs.LG},
+}
+
+@Article{li2021ultrareliable,
+  author        = {Shufeng Li and Mingyu Cai and Libiao Jin and Yao Sun and Hongda Wu and Ping Wang},
+  journal       = {submitted to IEEE Transactions on Vehicular Technology},
+  title         = {An Ultra-Reliable Low-Latency Non-Binary Polar Coded SCMA Scheme},
+  year          = {2021},
+  archiveprefix = {arXiv},
+  eprint        = {2110.09977},
+  file          = {:2110.09977.pdf:PDF},
+  primaryclass  = {cs.IT},
+  url           = {https://arxiv.org/abs/2110.09977},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
