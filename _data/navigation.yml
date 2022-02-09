@@ -4,16 +4,16 @@ main:
   - title: "About"
     url: /about/
 
+  - title: "Academic"
+  url: /cv/
 
   - title: "Publications"
     url: /publications/  
 
-    
+
   - title: "Awards"
     url: /award/
 
-  - title: "CV"
-    url: /cv/
-    
+  
   - title: "miscellanea"
     url: /markdown/
