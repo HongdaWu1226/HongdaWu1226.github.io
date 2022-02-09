@@ -13,7 +13,7 @@
 
 @InProceedings{9500890,
   author    = {Hongda Wu and Ping Wang},
-  booktitle = {ICC 2021 - IEEE International Conference on Communications},
+  booktitle = {IEEE International Conference on Communications (ICC), 2021},
   title     = {Fast-Convergent Federated Learning with Adaptive Weighting},
   year      = {2021},
   pages     = {1-6},
@@ -44,18 +44,20 @@
   volume    = {2020},
   publisher = {SpringerOpen},
   url_local = {LiJWCN_channel.pdf},
-  url_paper = {http://arxiv.org/abs/2110.09977},
+  url_paper = {https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-020-1637-4},
 }
 
-@article{li2019codebook,
-  title={Codebook-Aided DOA Estimation Algorithms for Massive MIMO System},
-  author={Li, Shufeng and Wu, Hongda and Jin, Libiao},
-  journal={Electronics},
-  volume={8},
-  number={1},
-  pages={26},
-  year={2019},
-  publisher={Multidisciplinary Digital Publishing Institute}
+@Article{li2019codebook,
+  author    = {Li, Shufeng and Wu, Hongda and Jin, Libiao},
+  journal   = {Electronics},
+  title     = {Codebook-Aided DOA Estimation Algorithms for Massive MIMO System},
+  year      = {2019},
+  number    = {1},
+  pages     = {26},
+  volume    = {8},
+  publisher = {Multidisciplinary Digital Publishing Institute},
+  url_local = {WuElec.pdf},
+  url_paper = {https://www.mdpi.com/2079-9292/8/1/26},
 }
 
 @Article{li2019joint,
@@ -67,26 +69,32 @@
   pages     = {1--11},
   volume    = {2019},
   publisher = {Springer},
+  url_local = {LiJWCNMatrix.pdf},
+  url_paper = {https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-019-1625-8},
 }
 
 @InProceedings{miao2018chinese,
   author       = {Miao, Fang and Zhang, Pu and Jin, Libiao and Wu, Hongda},
-  booktitle    = {2018 10th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC)},
+  booktitle    = {International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC), 2018},
   title        = {Chinese News Text Classification Based on Machine Learning Algorithm},
   year         = {2018},
   organization = {IEEE},
   pages        = {48--51},
   volume       = {2},
+  url_local    = {MiaoIHMCS.pdf},
+  url_paper    = {https://ieeexplore.ieee.org/document/8530178},
 }
 
 @Article{wu2022node,
   author        = {Hongda Wu and Ping Wang},
-  journal       = {IEEE Transactions on Network Science and Engineering},
+  journal       = {accepted to IEEE Transactions on Network Science and Engineering},
   title         = {Node Selection Toward Faster Convergence for Federated Learning on Non-IID Data},
   year          = {2022},
   archiveprefix = {arXiv},
   eprint        = {2105.07066},
   primaryclass  = {cs.LG},
+  url_local     = {WuTNSE.pdf},
+  url_paper     = {https://arxiv.org/abs/2105.07066},
 }
 
 @Article{li2021ultrareliable,
@@ -99,6 +107,13 @@
   primaryclass  = {cs.IT},
   url_local     = {LiTVT.pdf},
   url_paper     = {https://arxiv.org/abs/2110.09977},
+}
+
+@InProceedings{WuWCNC2022,
+  author    = {Hongda Wu and Ping Wang},
+  booktitle = {IEEE Wireless Communications and Networking Conference (WCNC), 2022},
+  title     = {Probabilistic Node Selection for Federated Learning with Heterogeneous Data in Mobile Edge},
+  url_local = {WuWCNC.pdf},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
