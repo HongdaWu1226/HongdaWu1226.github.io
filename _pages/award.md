@@ -5,7 +5,7 @@ permalink: /award/
 # excerpt: "Awards"
 author_profile: true
 redirect_from: 
-  - /award/
+  - /award
 ---
 
 
