@@ -1,5 +1,5 @@
 @ARTICLE{9442814,
-  author={Wu, Hongda and Wang, Ping},
+  author={Hongda Wu and Ping Wang},
   journal={IEEE Transactions on Cognitive Communications and Networking}, 
   title={Fast-Convergent Federated Learning With Adaptive Weighting}, 
   year={2021},
@@ -9,7 +9,7 @@
   doi={10.1109/TCCN.2021.3084406}}
 
 @INPROCEEDINGS{9500890,
-  author={Wu, Hongda and Wang, Ping},
+  author={Hongda Wu and Ping Wang},
   booktitle={ICC 2021 - IEEE International Conference on Communications}, 
   title={Fast-Convergent Federated Learning with Adaptive Weighting}, 
   year={2021},
@@ -25,6 +25,8 @@
   year          = {2021},
   archiveprefix = {arXiv},
   eprint        = {2110.09977},
+  url_Paper = {2110.09977.pdf}
+  url_arXiv = {http://arxiv.org/abs/2110.09977}
   primaryclass  = {cs.IT},
 }
 
