@@ -16,8 +16,23 @@ I'm a third-year PhD candidate of dept. [EECS](http://www.eecs.yorku.ca/) at [Yo
  I am a sport fan and a tireless traveller.
 
 
+* * *
 
-# Recent News
+**Updates:**  
+
+*   Jan 2022: Our paper titled "Node Selection Toward Faster Convergence for Federated Learning on Non-IID Data" has been accepted by _IEEE Transactions on Network Science and Engineering_.  
+
+*   Dec 2021: Our paper titled "Probabilistic Node Selection for Federated Learning with Heterogeneous Data in Mobile Edge" has been accepted by _WCNC_ 2022
+<!-- (https://wcnc2022.ieee-wcnc.org/).   -->
+
+*   Oct. 2021: Our new paper explored the channel coding and non-orthogonal multiple access for URLLC communication systems is available on [ArXiv](https://arxiv.org/abs/2110.09977) (joint work with my M.A.Sc. supervisor).  
+
+*   May 2021: Our paper titled "Fast-Convergent Federated Learning with Adaptive Weighting" has been accepted by _IEEE Transactions on Cognitive Communications and Networking_.  
+
+*   Jan. 2021: Our paper titled "Fast-Convergent Federated Learning with Adaptive Weighting" has been accepted by _ICC_ 2021
+<!-- (https://icc2021.ieee-icc.org/). -->
+
+<!-- # Recent News
 {% include base_path %}
 {% assign news = site.news | reverse %}
 {% assign first_post = news | first %}
@@ -42,4 +57,4 @@ I'm a third-year PhD candidate of dept. [EECS](http://www.eecs.yorku.ca/) at [Yo
 
 ---
 
-For more news see [here](/news/).
+For more news see [here](/news/). -->
