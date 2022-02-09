@@ -1,7 +1,8 @@
 ---
-permalink: /award/
+layout: archive
 title: "Awards"
-excerpt: "Awards"
+permalink: /award/
+# excerpt: "Awards"
 author_profile: true
 redirect_from: 
   - /award/
