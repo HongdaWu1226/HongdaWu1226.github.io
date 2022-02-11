@@ -15,6 +15,15 @@ I am highly interested in a wide range of research topics related to federated l
 <!-- (check the [research statement]() for details) -->
 
 ----
+
+<!-- ## **Index** -->
+- [Professional Activity](#Professional)
+  - [Conference Presentations](#Conference)
+  - [Workshops](#Workshop)
+  - [Peer Review](#Reviewer)
+- [Teaching Assistant](#Teaching)
+
+
 ## **Professional Activities**
 ### Conference Presentations
 - Probabilistic Node Selection for Federated Learning with Heterogeneous Data in Mobile Edge <br/>
@@ -37,13 +46,12 @@ Montreal, 2021
 
 
 
-### Reviewer for 
+### Reviewer  
 - IEEE Transaction on Wireless Communication
 - IEEE Transaction on Mobile Computing 
 - IEEE Transactions on Cognitive Communications and Networking 
 - IEEE Communications Letters 
 - IEEE Network magazine 
-
 * IEEE Proceedings: ICC, GLOBECOM, WCNC, VTC
 
 -----
@@ -55,6 +63,7 @@ Montreal, 2021
 - EECS 4214: Digital Communications (Fall 2021)
 - EECS 3214: Communication Networks (Fall 2020)
 - EECS 3213: Computer Network Protocols and Applications (Fall 2021)
+
 ### Research camps
 - Wireless Communications System Design (2019 - 2022) <br/>
   Prof. [Danijela Cabric]((https://cores.ee.ucla.edu/people/danijela-cabric/)), University of California, Los Angles 
