@@ -17,7 +17,7 @@ redirect_from:
 
 * I also like music, movies, cooking, reading history and science & tech books
 <!-- * I was enjoyable to live with Judy (a small garfield) for several month -->
-* I am a tireless traveler and a travel photographer (I am fascinated with the smetropolis and skyscrapers)
+* I am a tireless traveler and a travel photographer (I am fascinated with the metropolis and skyscrapers)
 
  
 ----
