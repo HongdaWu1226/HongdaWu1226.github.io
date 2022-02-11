@@ -34,4 +34,4 @@ redirect_from:
 - China: _Beijing, Shanghai - Shenzhen - Chengdu - Suzhou - XiAn - Xiamen - Nanjing- Qiangdao - Changsha - Tianjin - Dalian - Hangzhou - Jinan_
 - Macau - China
 - Malaysia: _Kuala Lumpur_
-- Thailand: _Bangkok, Phuket, Chiang Mai_
+- Thailand: _Bangkok - Phuket - Chiang Mai_
