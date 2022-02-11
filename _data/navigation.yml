@@ -5,15 +5,13 @@ main:
     url: /about/
 
   - title: "Academic"
-  url: /cv/
+    url: /cv/
 
   - title: "Publications"
-    url: /publications/  
-
+    url: /publications/
 
   - title: "Awards"
-    url: /award/
-
+    url: /award/  
   
-  - title: "miscellanea"
+  - title: "Miscellanea"
     url: /markdown/
