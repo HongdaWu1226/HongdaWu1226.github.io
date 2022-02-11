@@ -4,7 +4,7 @@ title: "Academic"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /cv
+  - /resume
 ---
 
 <!-- ## **Research Interests:** -->
