@@ -26,12 +26,12 @@ redirect_from:
 ### _keep updaing_<br/> 
 (the photograph is being constructed)
 
-- Canada: _Toronto - Montreal - Ottawa- Calgary -Vancouver_
+- Canada: _Toronto - Montreal - Ottawa - Calgary - Vancouver - Banff - Jasper_
 - Mexico: _Cancun_
 - Korea: _Seoul_
-- TaiWan - China: _Taipei - Kaohsiung - Jioufen - Kenting NP_
+- TaiWan - China: _Taipei - Kaohsiung - Jioufen - Kenting_
 - Hong Kong - China
-- China: _Beijing, Shanghai - Shenzhen - Chengdu - Suzhou - XiAn - Xiamen - Nanjing- Qiangdao - Changsha - Tianjin - Dalian - Hangzhou - Jinan_
+- China: _Beijing, Shanghai - Shenzhen - Chengdu - Suzhou - Xian - Xiamen - Nanjing- Qiangdao - Changsha - Tianjin - Dalian - Hangzhou - Jinan_
 - Macau - China
 - Malaysia: _Kuala Lumpur_
 - Thailand: _Bangkok - Phuket - Chiang Mai_
