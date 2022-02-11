@@ -13,9 +13,9 @@ redirect_from:
 * I enjoy very much spending my non-working life on a wide range of sports<br/> (badminton, tennis, 10km running, cycling, surfing)
 
     <!-- + Music (e.g., Jacky Chueng, Westlife, Ed Sheeran) -->
-* I started watching NBA since I was 7 years old. Now the idol is Kevin Durant <br/> (though the enthusiasm is dropping))
+* I started watching NBA since I was 7 years old. Now the idol is Kevin Durant <br/> (though the enthusiasm is dropping)
 
-* I also like music, movies, cooking, reading history and science \& tech books
+* I also like music, movies, cooking, reading history and science & tech books
 <!-- * I was enjoyable to live with Judy (a small garfield) for several month -->
 * I am a tireless traveler and a travel photographer (I am fascinated with the smetropolis and skyscrapers)
 
