@@ -16,13 +16,6 @@ I am highly interested in a wide range of research topics related to federated l
 
 ----
 
-<!-- ## **Index** -->
-- [Professional Activity](#Professional)
-  - [Conference Presentations](#Conference)
-  - [Workshops](#Workshop)
-  - [Peer Review](#Reviewer)
-- [Teaching Assistant](#Teaching)
-
 
 ## **Professional Activities**
 ### Conference Presentations
