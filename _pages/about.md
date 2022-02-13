@@ -11,7 +11,7 @@ redirect_from:
 I'm a third-year PhD candidate of dept. [EECS](http://www.eecs.yorku.ca/) at [York University](http://yorku.ca), advised by [Ping Wang](https://scholar.google.com/citations?user=3sIHxrcAAAAJ&hl=en) (IEEE Fellow). My research interests lie in the prinicple of federated learning and its applications for wireless communication systems. I am also very interested in reinforcement learning.  
 
 
- I obtained M.A.Sc degree in Electrical Engineering from Communication University of China, Beijing, where I focused on physical layer problems of wireless communication.
+<!--  I obtained M.A.Sc degree in Electrical Engineering from Communication University of China, Beijing, where I focused on physical layer problems of wireless communication. -->
 
  I am a big sport fan and a tireless traveller.
 
