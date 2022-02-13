@@ -17,5 +17,5 @@ redirect_from:
 * Outstanding Graduates (Top 5%), CUC, 2019
 * **Innovation Scholarship for Graduate Students (Top 0.2%, 6 /$\approx$ 3000), CUC, 2018**
 * Merit Graduate Student (Top 10%), CUC, 2017-2019
-* First-Class Academic Scholarship (Top 10%), CUC, 2018 \& 2019
+* First-Class Academic Scholarship (Top 10%), CUC, 2018 & 2019
 
