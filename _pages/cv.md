@@ -13,6 +13,7 @@ I have been very fortunate to be advised by Prof. [Ping Wang](https://scholar.go
 
 ## **Research Interests:**
 I am highly interested in a wide range of research topics related to federated learning, including _data heterogeneity, quantization, personalization, incentive design, and byzantine resilience_, some of which have been explored during my Ph.D. study, and I am eager to learn more on those topics.<br />
+
 (_If you have any question regarding my research, or would like to collaborate on a relevant topic of interest and learn together, feel free to drop an email._ <br />
 check the [Research Statement](../files/ResearchStatement_HongdaWu.pdf) and [CV](../files/CV_HongdaWu.pdf) for more detail)
 
