@@ -18,8 +18,12 @@ I'm a third-year PhD candidate of dept. [EECS](http://www.eecs.yorku.ca/) at [Yo
 
 * * *
 
-**Updates:**  
+**Updates:** 
 
+*   March 2022: I will go to Austin, TX, USA to attend the _WCNC_ 2022 (April 9 - 13). Feel free to contact and meet up!
+
+*   March 2022: Our new paper explored the IoT caching problem with considering data lifetime and energy constrain has been submitted to _IEEE Transactions on Vehicular Technology_. The preprint will be available soon.
+  
 *   Jan 2022: Our paper titled "[Node Selection Toward Faster Convergence for Federated Learning on Non-IID Data](../files/WuTNSE.pdf)" has been accepted to _IEEE Transactions on Network Science and Engineering_.  
 
 *   Dec 2021: Our paper titled "[Probabilistic Node Selection for Federated Learning with Heterogeneous Data in Mobile Edge](../files/WuWCNC.pdf)" has been accepted to _WCNC_ 2022. Hope to meet scholars in Austin!
