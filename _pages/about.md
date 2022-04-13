@@ -20,7 +20,7 @@ I'm a third-year PhD candidate of dept. [EECS](http://www.eecs.yorku.ca/) at [Yo
 
 **Updates:** 
 
-*   March 2022: I will go to Austin, TX, USA to attend the _WCNC_ 2022 (April 9 - 13). Feel free to contact and meet up!
+*   April 2022: I have received the Best Paper Awards from IEEE WCNC 2022! See the [certificate](../files/wcnc_bp.jpeg).
 
 *   March 2022: First-author paper explored the IoT caching problem with considering data lifetime and energy constrain has been submitted to _IEEE Transactions on Vehicular Technology_. See the ArXiv [preprint](../files/WuDRL.pdf).
 
