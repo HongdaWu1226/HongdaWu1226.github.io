@@ -8,7 +8,7 @@ redirect_from:
   - /award
 ---
 
-
+* **IEEE WCNC Best Paper Awards, IEEE ComSoc, 2022**
 * YU Graduate Fellowship-Doctoral, YU, 2019 - 2023
 * **York Graduate Scholarship, YU, 2019**
 * **National Scholarship (top 2%), Ministry of Education, China, 2017**
