@@ -26,6 +26,7 @@ redirect_from:
 ### _keep updaing_<br/> 
 (the photograph is being constructed)
 
+- United States: _Austin - Miami - Key West_
 - Canada: _Toronto - Montreal - Ottawa - Calgary - Vancouver - Banff - Jasper_
 - Mexico: _Cancun_
 - Korea: _Seoul_
