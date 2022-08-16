@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 * **IEEE WCNC Best Paper Awards, IEEE ComSoc, 2022**
+* Hadi and Ozra Arjomandi Graduate Scholarship,  Dept. EECS, LAS, 2022
 * Academic Excellence Fund, Faculty of Graduate Studies, 2022
 * CUPE International Bursary, Canadian Union of Public Employees, 2022
 * YU Graduate Fellowship-Doctoral, YU, 2019 - 2023
