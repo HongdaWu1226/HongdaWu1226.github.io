@@ -24,6 +24,9 @@ Check the [CV](../files/CV_HongdaWu.pdf) for more details.
 
 ## **Professional Activities**
 ### Conference Presentations
+- Model-heterogeneous Federated Learning with Partial Model Training  <br/>
+_IEEE International Conference on Communications in China_ (ICCC), Dalian, 2023
+
 - Probabilistic Node Selection for Federated Learning with Heterogeneous Data in Mobile Edge <br/>
 _IEEE International Conference on Communications_ (WCNC),
 Austin, 2022
@@ -39,17 +42,21 @@ Montreal, 2021
 ### Workshop
 
 - Canadian Student Reading Group on Data Science, UBC.  &nbsp; Virtual, 2021
-
+- 
 - Communication & Information Theory, Xidian University  &nbsp; Xi' an, 2018
 
 
 
 ### Reviewer  
+- IEEE Transactions on Knowledge and Data Engineering
 - IEEE Transaction on Wireless Communication
 - IEEE Transaction on Mobile Computing 
 - IEEE Transactions on Cognitive Communications and Networking 
-- IEEE Communications Letters 
-- IEEE Network magazine 
+- IEEE Communications Letters
+- IEEE Open Journal of the Communications Society
+- IEEE Open Journal of Signal Processing
+- IEEE Network magazine
+* International Conference on Artificial Intelligence and Statistics (AISTATS) 2023
 * IEEE Proceedings: ICC, GLOBECOM, WCNC, VTC
 
 -----
