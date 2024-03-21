@@ -32,15 +32,15 @@ My research interests are in machine learning, optimization, and distributed sys
 
 *   April 2022: I have received the Best Paper Awards from IEEE WCNC 2022! See the [certificate](../files/wcnc_bp.jpeg).
 
-*   March 2022: Our paper titled "[An Ultra-Reliable Low-Latency Non-Binary Polar Coded SCMA Scheme](../files/LiTVT.pdf)" has been accepted to _IEEE Transactions on Vehicular Technology_ (joint work with my M.A.Sc. supervisor).  
+ <!-- *   March 2022: Our paper titled "[An Ultra-Reliable Low-Latency Non-Binary Polar Coded SCMA Scheme](../files/LiTVT.pdf)" has been accepted to _IEEE Transactions on Vehicular Technology_ (joint work with my M.A.Sc. supervisor).  -->
   
-*   Jan 2022: Paper titled "[Node Selection Toward Faster Convergence for Federated Learning on Non-IID Data](../files/WuTNSE.pdf)" has been accepted to _IEEE Transactions on Network Science and Engineering_.  
+<!-- *   Jan 2022: Paper titled "[Node Selection Toward Faster Convergence for Federated Learning on Non-IID Data](../files/WuTNSE.pdf)" has been accepted to _IEEE Transactions on Network Science and Engineering_.  -->
 
-*   Dec 2021: Paper titled "[Probabilistic Node Selection for Federated Learning with Heterogeneous Data in Mobile Edge](../files/WuWCNC.pdf)" has been accepted to _WCNC_ 2022. Hope to meet scholars in Austin!
+<!-- *   Dec 2021: Paper titled "[Probabilistic Node Selection for Federated Learning with Heterogeneous Data in Mobile Edge](../files/WuWCNC.pdf)" has been accepted to _WCNC_ 2022. Hope to meet scholars in Austin!-->
 
-*   May 2021: Paper titled "[Fast-Convergent Federated Learning with Adaptive Weighting](../files/WuTCCN.pdf)" has been accepted to _IEEE Transactions on Cognitive Communications and Networking_.  
+<!-- *   May 2021: Paper titled "[Fast-Convergent Federated Learning with Adaptive Weighting](../files/WuTCCN.pdf)" has been accepted to _IEEE Transactions on Cognitive Communications and Networking_.  -->
 
-*   Jan. 2021: Paper titled "[Fast-Convergent Federated Learning with Adaptive Weighting](../files/WuICC.pdf)" has been accepted to _ICC_ 2021
+<!-- *   Jan. 2021: Paper titled "[Fast-Convergent Federated Learning with Adaptive Weighting](../files/WuICC.pdf)" has been accepted to _ICC_ 2021-->
 <!-- (https://icc2021.ieee-icc.org/). -->
 
 <!-- # Recent News
