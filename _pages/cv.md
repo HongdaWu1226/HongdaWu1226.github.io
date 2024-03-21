@@ -44,7 +44,7 @@ Montreal, 2021
 ### Workshop
 
 - Canadian Student Reading Group on Data Science, UBC.  &nbsp; Virtual, 2021
-- 
+  
 - Communication & Information Theory, Xidian University  &nbsp; Xi' an, 2018
 
 
