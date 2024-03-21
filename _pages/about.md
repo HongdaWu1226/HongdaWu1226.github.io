@@ -8,12 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year PhD candidate of dept. [EECS](http://www.eecs.yorku.ca/) at [York University](http://yorku.ca), advised by [Ping Wang](https://scholar.google.com/citations?user=3sIHxrcAAAAJ&hl=en) (IEEE Fellow). My research interests lie in the prinicple of federated learning and its applications for wireless communication systems. I am also very interested in reinforcement learning.  
 
+I obtained the Ph.D. in Dec. 2023, under the supervision of Prof. [Ping Wang](https://scholar.google.com/citations?user=3sIHxrcAAAAJ&hl=en), in the Dept. Electrical Engineering and Computer Science, York University, Canada. I have finished two industrial internship roles during my Ph.D. study, where I worked as a research engineer in SONY R&D, Tokyo, and an associate researcher in Noah Ark's Lab, Montreal Research Centre, Montreal, focusing on applying federated learning to auto-driving systems (applicable), and personalization use-case (theoretical), respectively.
+
+My research interests are in machine learning, optimization, and distributed systems. I specified in federated and on-device learning, distributed optimization, and their application to data analytics, IoT systems, and future intelligent wireless networks. Broadly speaking, I am interested in 
+
+* Designing theoretical frameworks for distributed/federated learning (FL) systems
+* Leveraging foundation model for privacy-preserving ML use cases (e.g., with transferability)
+* Integrating GenAI with FL systems for better robustness and adaptability (e.g., personalization)
+
+  
 
 <!--  I obtained M.A.Sc degree in Electrical Engineering from Communication University of China, Beijing, where I focused on physical layer problems of wireless communication. -->
 
- I am a big sport fan and a tireless traveller.
+ <!-- I am a big sport fan and a tireless traveller. -->
 
 
 * * *
