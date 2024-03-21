@@ -10,7 +10,7 @@ redirect_from:
 
 **_I am on the job market looking for Research Scientist and Machine Learning Researcher/Engineer position_**
 
-I obtained the Ph.D. in Dec. 2023, under the supervision of Prof. [Ping Wang](https://scholar.google.com/citations?user=3sIHxrcAAAAJ&hl=en), in the Dept. EECS, York University, Canada. The thesis is about handling federated learning challenge in heterogeneous networks.
+I obtained the Ph.D. in Dec. 2023, under the supervision of Prof. [Ping Wang](https://scholar.google.com/citations?user=3sIHxrcAAAAJ&hl=en), in the Dept. EECS, York University, Canada. The thesis is about handling federated learning challenges in heterogeneous networks.
 
 I have finished two industrial internships during my Ph.D., where I worked as a research engineer in Sony R&D, Tokyo, and an associate researcher in Noah Ark's Lab, Montreal Research Centre, Montreal, focusing on applying federated learning to auto-driving systems (applicable), and personalization use-case (theoretical), respectively.
 
