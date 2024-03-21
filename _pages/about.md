@@ -9,9 +9,11 @@ redirect_from:
 ---
 
 
-I obtained the Ph.D. in Dec. 2023, under the supervision of Prof. [Ping Wang](https://scholar.google.com/citations?user=3sIHxrcAAAAJ&hl=en), in the Dept. Electrical Engineering and Computer Science, York University, Canada. I have finished two industrial internship roles during my Ph.D. study, where I worked as a research engineer in SONY R&D, Tokyo, and an associate researcher in Noah Ark's Lab, Montreal Research Centre, Montreal, focusing on applying federated learning to auto-driving systems (applicable), and personalization use-case (theoretical), respectively.
+I obtained the Ph.D. in Dec. 2023, under the supervision of Prof. [Ping Wang](https://scholar.google.com/citations?user=3sIHxrcAAAAJ&hl=en), in the Dept. Electrical Engineering and Computer Science, York University, Canada. 
 
-My research interests are in machine learning, optimization, and distributed systems. I specified in federated and on-device learning, distributed optimization, and their application to data analytics, IoT systems, and future intelligent wireless networks. Broadly speaking, I am interested in 
+I have finished two industrial internship roles during my Ph.D. study, where I worked as a research engineer in SONY R&D, Tokyo, and an associate researcher in Noah Ark's Lab, Montreal Research Centre, Montreal, focusing on applying federated learning to auto-driving systems (applicable), and personalization use-case (theoretical), respectively.
+
+My research interests are in machine learning, optimization, and distributed systems. Specifically, I am interested in 
 
 * Designing theoretical frameworks for distributed/federated learning (FL) systems
 * Leveraging foundation model for privacy-preserving ML use cases (e.g., with transferability)
@@ -25,12 +27,20 @@ My research interests are in machine learning, optimization, and distributed sys
 
 
 * * *
-
 **Updates:** 
 
-*   August 2022: Paper titled "[A Deep Reinforcement Learning-Based Caching Strategy for IoT Networks with Transient Data](../files/WuTVT.pdf)" has been accepted to _IEEE Transactions on Vehicular Technology_. 
+*   Dec 2023: I have defended my "[Ph.D. thesis](../files/Thesis_Hongda_Wu.pdf)". 
+   
+*   Nov 2023: Paper titled "[Straggler-resilient Federated Learning: Tackling Computation Heterogeneity with Layer-wise Partial Model Training in Mobile Edge Network](https://arxiv.org/abs/2311.10002)" has been submitted to _IEEE Transactions Mobile Computing_.
+  
+*   August 2023: I have finished my research internship in Sony R&D, Tokyo, Japan. Thanks Mr. Shinya Maruyama and Mr. Masanobu Jimbo for hosting me. Such a wonderful experience living in Tokyo!
 
-*   April 2022: I have received the Best Paper Awards from IEEE WCNC 2022! See the [certificate](../files/wcnc_bp.jpeg).
+*   March 2023: I have finished my coop in Noah Ark's Lab, Montreal Research Centre, Montreal. Thanks Dr. [Guojun Zhang](https://gordon-guojun-zhang.github.io/) and Dr. [Xi (Alex) Chen](https://sites.google.com/site/xichenmcgill/home) for hosting me.
+
+  
+ <!-- *   August 2022: Paper titled "[A Deep Reinforcement Learning-Based Caching Strategy for IoT Networks with Transient Data](../files/WuTVT.pdf)" has been accepted to _IEEE Transactions on Vehicular Technology_. -->
+
+ <!-- *   April 2022: I have received the Best Paper Awards from IEEE WCNC 2022! See the [certificate](../files/wcnc_bp.jpeg).--> 
 
  <!-- *   March 2022: Our paper titled "[An Ultra-Reliable Low-Latency Non-Binary Polar Coded SCMA Scheme](../files/LiTVT.pdf)" has been accepted to _IEEE Transactions on Vehicular Technology_ (joint work with my M.A.Sc. supervisor).  -->
   
