@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-_I am on the job market looking for **Research Scientist and Machine Learning Researcher/Engineer** position_.
+_I am on the job market looking for **Research Scientist** and **Machine Learning Researcher/Engineer** position_.
 
 I obtained the Ph.D. in Dec. 2023, under the supervision of Prof. [Ping Wang](https://scholar.google.com/citations?user=3sIHxrcAAAAJ&hl=en), in the Dept. EECS, York University, Canada. The thesis is about handling federated learning challenges in heterogeneous networks.
 
