@@ -11,7 +11,7 @@ redirect_from:
 
 I obtained the Ph.D. in Dec. 2023, under the supervision of Prof. [Ping Wang](https://scholar.google.com/citations?user=3sIHxrcAAAAJ&hl=en), in the Dept. Electrical Engineering and Computer Science, York University, Canada. 
 
-I have finished two industrial internship roles during my Ph.D. study, where I worked as a research engineer in SONY R&D, Tokyo, and an associate researcher in Noah Ark's Lab, Montreal Research Centre, Montreal, focusing on applying federated learning to auto-driving systems (applicable), and personalization use-case (theoretical), respectively.
+I have finished two industrial internship roles during my Ph.D. study, where I worked as a research engineer in Sony R&D, Tokyo, and an associate researcher in Noah Ark's Lab, Montreal Research Centre, Montreal, focusing on applying federated learning to auto-driving systems (applicable), and personalization use-case (theoretical), respectively.
 
 My research interests are in machine learning, optimization, and distributed systems. Specifically, I am interested in 
 
@@ -33,7 +33,7 @@ My research interests are in machine learning, optimization, and distributed sys
    
 *   Nov 2023: Paper titled "[Straggler-resilient Federated Learning: Tackling Computation Heterogeneity with Layer-wise Partial Model Training in Mobile Edge Network](https://arxiv.org/abs/2311.10002)" has been submitted to _IEEE Transactions Mobile Computing_.
   
-*   August 2023: I have finished my research internship in Sony R&D, Tokyo, Japan. Thanks Mr. Shinya Maruyama and Mr. Masanobu Jimbo for hosting me. Such a wonderful experience living in Tokyo!
+*   August 2023: I have finished my summer internship at Sony R&D, Tokyo, Japan. Thanks Mr. Shinya Maruyama and Mr. Masanobu Jimbo for hosting me. Such a wonderful experience living in Tokyo!
 
 *   March 2023: I have finished my coop in Noah Ark's Lab, Montreal Research Centre, Montreal. Thanks Dr. [Guojun Zhang](https://gordon-guojun-zhang.github.io/) and Dr. [Xi (Alex) Chen](https://sites.google.com/site/xichenmcgill/home) for hosting me.
 
