@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-**_I am on the job market looking for Research Scientist and Machine Learning Researcher/Engineer position_**
+_I am on the job market looking for **Research Scientist and Machine Learning Researcher/Engineer** position_.
 
 I obtained the Ph.D. in Dec. 2023, under the supervision of Prof. [Ping Wang](https://scholar.google.com/citations?user=3sIHxrcAAAAJ&hl=en), in the Dept. EECS, York University, Canada. The thesis is about handling federated learning challenges in heterogeneous networks.
 
 I have finished two industrial internships during my Ph.D., where I worked as a research engineer in Sony R&D, Tokyo, and an associate researcher in Noah Ark's Lab, Montreal Research Centre, Montreal, focusing on applying federated learning to auto-driving systems (applicable), and personalization use-case (theoretical), respectively.
 
 My research interests are in machine learning, optimization, and distributed systems. Specifically, I am interested in 
-
 * Designing theoretical frameworks for distributed/federated learning (FL) systems
 * Leveraging foundation model for privacy-preserving ML use cases (e.g., with transferability)
 * Integrating GenAI with FL systems for better robustness and adaptability (e.g., personalization)
