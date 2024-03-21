@@ -12,7 +12,9 @@ redirect_from:
 I have been very fortunate to be advised by Prof. [Ping Wang](https://scholar.google.com/citations?user=3sIHxrcAAAAJ&hl=en), and to be able to collaborate with Prof. [Danijela Cabric](https://cores.ee.ucla.edu/people/danijela-cabric/) in a research camp. 
 
 ## **Research Interests:**
-My research interests are in machine learning, optimization, and distributed systems. I specified federated and on-device learning, distributed optimization, and their application to data analytics, IoT systems, and future intelligent wireless networks. I am also highly interested in concepts including LLM, GenAI and the nexus between those techniques and federated learning for task-specific applications
+My research interests are in machine learning, optimization, and distributed systems. I specified federated and on-device learning, distributed optimization, and their application to data analytics, IoT systems, and future intelligent wireless networks. 
+
+I am also highly interested in concepts including LLM, GenAI, and the nexus between those techniques and federated learning for task-specific applications
 
 <!-- I am highly interested in a wide range of research topics related to federated learning, including _data heterogeneity, quantization, personalization, incentive design, and byzantine resilience_, some of which have been explored during my Ph.D. study, and I am eager to learn more on those topics.<br />-->
 
