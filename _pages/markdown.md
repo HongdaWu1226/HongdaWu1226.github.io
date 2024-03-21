@@ -1,7 +1,7 @@
 ---
 permalink: /markdown/
 title: "Having Fun"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /md
   - /markdown.md
