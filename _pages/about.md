@@ -29,7 +29,7 @@ My research interests are in machine learning, optimization, and distributed sys
 * * *
 **Updates:** 
 
-*   Dec 2023: I have defended my "[Ph.D. thesis](../files/Thesis_Hongda_Wu.pdf)". 
+*   Dec 2023: I have defended my [Ph.D. thesis](../files/Thesis_Hongda_Wu.pdf). 
    
 *   Nov 2023: Paper titled "[Straggler-resilient Federated Learning: Tackling Computation Heterogeneity with Layer-wise Partial Model Training in Mobile Edge Network](https://arxiv.org/abs/2311.10002)" has been submitted to _IEEE Transactions Mobile Computing_.
   
