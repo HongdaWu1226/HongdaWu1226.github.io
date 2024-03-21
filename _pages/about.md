@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+**_ I am on the job market looking for Research Scientist and Machine Learning Researcher/Engineer position_**
 
 I obtained the Ph.D. in Dec. 2023, under the supervision of Prof. [Ping Wang](https://scholar.google.com/citations?user=3sIHxrcAAAAJ&hl=en), in the Dept. Electrical Engineering and Computer Science, York University, Canada. 
 
