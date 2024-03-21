@@ -16,8 +16,8 @@ I have finished two industrial internships during my Ph.D., where I worked as a 
 
 My research interests are in machine learning, optimization, and distributed systems. Specifically, I am interested in 
 * Designing theoretical frameworks for distributed/federated learning (FL) systems
-* Leveraging foundation model for privacy-preserving ML use cases (e.g., with transferability)
-* Integrating GenAI with FL systems for better robustness and adaptability (e.g., personalization)
+* Leveraging foundation model for privacy-preserving ML use cases
+* Integrating GenAI with FL systems for better robustness and adaptability 
 
   
 
