@@ -1,3 +1,4 @@
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -87,7 +88,7 @@ author:
   employer         : "York University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=on2HRgEAAAAJ&hl=En"
-  email            : "hwu1226@eecs.yorku.ca"
+  email            : "h.wu.yorku@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Hongda-Wu"
   uri              :  
   bitbucket        :
