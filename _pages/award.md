@@ -8,6 +8,7 @@ redirect_from:
   - /award
 ---
 
+* Best Thesis Nomination (Ph.D.), Faculty of Graduate Studies, York U., 2023
 * **IEEE WCNC Best Paper Awards, IEEE ComSoc, 2022**
 * Hadi and Ozra Arjomandi Graduate Scholarship,  Dept. EECS, LAS, 2022
 * Academic Excellence Fund, Faculty of Graduate Studies, 2022
